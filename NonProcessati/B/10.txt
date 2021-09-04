@@ -1,0 +1,15 @@
+If you’ve been applying for developer jobs, you’ve no doubt faced a number of coding tests. While many developers and engineers don’t think coding tests are a good way of demonstrating the skills necessary for a job (particularly if they involve a whiteboard), employers clearly love their testing setups. But which programming languages are companies actually testing for?  
+
+Devskiller, a platform for screening and technical interviews, asks that question every year as part of its annual report on IT skills. Java and JavaScript were the most-tested languages on its platform, with 43 percent each; SQL came in third by a hair, with 41 percent. In distant fourth was .NET/C#, with 15 percent, trailed closely by CSS/HTML with 14 percent. (For context, Devskiller compiles its data from 304,645 coding tests conducted by companies in 62 countries.)
+
+“This year’s most significant development is Java climbing back to join JavaScript for the top spot – a position it has not occupied since 2019,” added the report. “The return of Java to the top spot shows that despite the importance of the front-end in software development, many companies seek developers who are skilled in back-end technologies.” 
+
+JavaScript also remains a strong performer; according to the report, some 75 percent of companies are actively searching for JavaScript developers. Another 63 percent of companies wanted SQL experts, while 51 percent were on the hunt for those skilled in Java. HTML/CSS and .NET/C# finished up this list with 48 percent and 41 percent, respectively. 
+
+“Our findings indicate that JavaScript remains the go-to front-end IT skill,” the report continued. “It’s important to note that we are aware of the growing shift towards TypeScript as a replacement to JavaScript. The reason it was not specified in this report was because we classify most TypeScript coding test invitations on our platform as JavaScript.”
+
+It’s easy to see why companies like using Java (and thus want to test technologist candidates’ proficiency in it): For the past quarter-century, the language’s “write once, run anywhere” (WORA) design, which means it can run on any device with a Java Virtual Machine (JVM), has made it a suitable candidate for building software for all kinds of devices and functions. 
+
+That utility can also translate into handsome compensation for technologists with a firm grasp of Java. According to Burning Glass, which collects and analyzes job postings from across the country, the median Java developer salary is $102,000, which is quite high for technology positions.
+
+The language’s ubiquity also means lots of resources out there for those totally new to Java. Oracle (which purchased Sun Microsystems, which created the language in-house) maintains a forum where you can ask questions and review what others are doing, as well as a tutorial site. There’s a subreddit, of course, for those needing help and tutorials. InfoWorld also has lots of continually updated information about the language on its dedicated page. With enough knowledge and practice, you can ace any test that an employer might throw at you.

@@ -1,0 +1,10 @@
+Negli scorsi minuti è stato ufficializzato un attacco informatico ai server di Cd Projekt Red, lo studio polacco che ha sviluppato Cyberpunk 2077 e The Witcher 3. Secondo quanto trapelato, il massiccio blitz è riuscito a fare breccia nelle difese e ad accedere a una serie di dati sensibili, che però non dovrebbero interessare quelli degli utenti.
+
+Dopo le tante difficoltà dal lancio del nuovo titolo, un nuovo ostacolo da superare – paradossalmente proprio in stile cyberpunk – per Cd Projekt Red, che ha pubblicato nella mattinata un comunicato su Twitter. In poche righe viene raccontato che nella giornata di ieri è stato scoperto un attacco informatico che ha compromesso alcuni sistemi interni con raccolta di dati e ha piazzato un ransomware che chiede un riscatto pecuniario per liberare le informazioni trafugate e i server entro 48 ore.
+
+
+Tuttavia, dalla Polonia viene assicurato che il backup sia rimasto intaccato e siano già state iniziate le procedure di ripristino dei dati sui server, confermando che non sarà pagato alcun riscatto e che le autorità siano già state mobilitate, assieme a esperti di informatica forense.
+
+È stato anche mostrato il messaggio ricevuto dai cybercriminali che promettono di dare in pasto alla stampa informazioni sensibili, senza specificare quali seppur accennando di aver messo mano su documenti dei vari uffici legali, risorse umane, contabilità, amministrazione e relative a vari clienti.
+
+Probabile che Cd Projekt Red abbia considerato tali documenti non così compromettenti e si sia concentrata sulla ben più urgente attività di ripristino dei server. Un’ennesima scivolata per lo studio polacco che già deve fronteggiare uno dei lanci più disastrosi della storia dei videogame, con un’esperienza quasi ingestibile su old-gen, nuovi bug nati da successive patch, utenti in fuga e gravi ritardi sul rilascio dei contenuti aggiuntivi.
